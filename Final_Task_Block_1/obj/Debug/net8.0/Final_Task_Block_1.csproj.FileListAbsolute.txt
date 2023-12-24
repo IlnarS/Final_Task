@@ -1,0 +1,14 @@
+/home/work/Desktop/HomeWork/Final_Task_Block_1/bin/Debug/net8.0/Final_Task_Block_1
+/home/work/Desktop/HomeWork/Final_Task_Block_1/bin/Debug/net8.0/Final_Task_Block_1.deps.json
+/home/work/Desktop/HomeWork/Final_Task_Block_1/bin/Debug/net8.0/Final_Task_Block_1.runtimeconfig.json
+/home/work/Desktop/HomeWork/Final_Task_Block_1/bin/Debug/net8.0/Final_Task_Block_1.dll
+/home/work/Desktop/HomeWork/Final_Task_Block_1/bin/Debug/net8.0/Final_Task_Block_1.pdb
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.AssemblyInfoInputs.cache
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.AssemblyInfo.cs
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.csproj.CoreCompileInputs.cache
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.dll
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/refint/Final_Task_Block_1.dll
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.pdb
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/Final_Task_Block_1.genruntimeconfig.cache
+/home/work/Desktop/HomeWork/Final_Task_Block_1/obj/Debug/net8.0/ref/Final_Task_Block_1.dll
